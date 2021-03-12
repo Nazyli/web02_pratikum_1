@@ -1,6 +1,6 @@
 # Pemrograman Web Lanjutan TI - Pratikum 1
 
-STT Terpadu Nurul Fikri\
+STT Terpadu Nurul Fikri
 
 Pemrograman Web 2 - WEB02 (SEMESTER 2)
 
