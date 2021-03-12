@@ -1,6 +1,5 @@
 <?php
 $proses = $_POST['proses'];
-var_dump($_POST);
 $nama_siswa = $_POST['nama'];
 $matkul = $_POST['matkul'];
 $nilai_uts = $_POST['uts'];
